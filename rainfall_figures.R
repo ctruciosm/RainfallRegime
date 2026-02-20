@@ -1,10 +1,9 @@
 ###################################################
 ####                 Figures                   ####
 ###################################################
-# Instruction
-# Run this script after running rainfall_year.R
 library(dplyr)
 library(readr)
+library(ggplot2)
 library(tidyr)
 library(stringr)
 library(lubridate)
